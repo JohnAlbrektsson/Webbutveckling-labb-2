@@ -1,0 +1,39 @@
+{
+    "work":[
+        {
+            "name": "Falkenbergs kommun",
+            "date": "2018-2022",
+            "description": "Jobbade här som fritidspedagog innan jag påbörjade min utbildning. Mina arbetsuppgifter innebar att ta hand om och uteckla barnen som går på fritids genom olika aktiviteter. Under skoldagen var jag resurs för de elever som behövde lite extra hjälp med skolarbetet så att de klarar av det."
+        },
+        {
+            "name":"Sia-Glass AB",
+            "date":"2018-2018",
+            "description":"Jobbade i lagret under en sommar. Mina arbetsuppgifter innebar att plocka ordrar från företag som lagt beställningar."
+        },
+        {
+            "name":"Gekås Ullared AB",
+            "date":"2017-2018",
+            "description":"Jobb som kassör på Gekås Ullared. Mina arbetsuppgifter var att sitta i kassan och ta betalt. Vid tillfällen fick jag hantera de varor som kunderna lämnat kvar vid kassan och se till att de kommer ut i butiken igen. Fick även vid tillfällen ansvara för avlösning av kassörer så att de kunde gå på rast."
+        }],
+    "studies":[
+        {
+            "name":"Systemutvecklare .NET, Campus Varberg",
+            "date":"2022-Idag"
+        },
+        {
+            "name":"Designstudio - Webb 7,5hp Halmstad Högskola",
+            "date":"2017"
+        },
+        {
+            "name":"Webbprogrammering och databaser 7,5hp Halmstad Högskola",
+            "date":"2017"
+        },
+        {
+            "name":"Interaktiva prototyper 7,5hp Halmstad Högskola",
+            "date":"2016"
+        },
+        {
+            "name":"Tre årig teknisk gymnasieutbildning - Ljud & Bildskolan, Halmstad",
+            "date":"2013-2016"
+        }]
+}
